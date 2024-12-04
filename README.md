@@ -1,2 +1,2 @@
 # MissionSupportLibrary
-Some useful code for flying quadcopters for research
+Some useful code for flying quadcopters for research.
