@@ -1,3 +1,6 @@
 [submodule "ros2_interface/src/px4_msgs"]
 	path = ros2_interface/src/px4_msgs
 	url = https://github.com/PX4/px4_msgs.git
+[submodule "flight_control/acados"]
+	path = flight_control/acados
+	url = https://github.com/StanfordMSL/acados.git
