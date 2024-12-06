@@ -1,0 +1,10 @@
+{   
+    "name": "iris",
+    "mass": 1.500,
+    "massless_inertia": [0.019416,0.019416,0.036816],
+    "arm_front": [0.130, 0.200],
+    "arm_back" : [0.130, 0.200],
+    "force_normalized" : 5.20,
+    "torque_gain": 0.040,
+    "number_of_rotors": 4
+}

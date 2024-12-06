@@ -1,0 +1,51 @@
+{
+    "name": "track_sigmoid",
+    "Nco": 6,
+    "keyframes": {
+        "fo0": {
+            "t": 0.0,
+            "fo":   [
+                [-3.00,  0.00,  0.00],
+                [-2.00,  0.00,  0.00],
+                [-1.00,  0.00,  0.00],
+                [ 1.57,  0.00,  0.00]
+            ]
+        },
+        "fo1": {
+            "t": 3.0,
+            "fo":   [
+                [-2.70,  null,  null,  null],
+                [-0.30,  null,  null,  null],
+                [-1.20,  null,  null,  null],
+                [ 0.78,  null,  null,  null]
+            ]
+        },
+        "fo2": {
+            "t": 5.0,
+            "fo":   [
+                [ 0.00,  null,  null,  null],
+                [-0.20,  null,  null,  null],
+                [-1.40,  null,  null,  null],
+                [ 0.00,  null,  null,  null]
+            ]
+        },
+        "fo3": {
+            "t": 7.0,
+            "fo":   [
+                [ 2.70,  null,  null,  null],
+                [ 0.30,  null,  null,  null],
+                [-1.20,  null,  null,  null],
+                [ 0.78,  null,  null,  null]
+            ]
+        },
+        "fo4": {
+            "t": 10.0,
+            "fo":   [
+                [ 3.00,  0.00,  0.00],
+                [ 2.00,  0.00,  0.00],
+                [-1.00,  0.00,  0.00],
+                [ 1.57,  0.00,  0.00]
+            ]
+        }
+    }
+}

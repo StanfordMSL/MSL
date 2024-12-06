@@ -1,0 +1,10 @@
+{   
+    "name": "carl",
+    "mass": 1.144,
+    "massless_inertia": [0.019416,0.019416,0.036816],
+    "arm_front": [0.075,0.100],
+    "arm_back" : [0.075,0.100],
+    "force_normalized" : 6.90,
+    "torque_gain": 0.040,
+    "number_of_rotors": 4
+}

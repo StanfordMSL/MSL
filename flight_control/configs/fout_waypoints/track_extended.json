@@ -1,0 +1,105 @@
+{
+    "name": "track_extended",
+    "Nco": 6,
+    "keyframes": {
+        "fo0": {
+            "t": 0.0,
+            "fo":   [
+                [-5.00,  0.00,  0.000,  0.00],
+                [-1.00,  0.00,  0.000,  0.00],
+                [-1.00,  0.00,  0.000,  0.00],
+                [ 0.00,  0.00,  0.000,  0.00]
+            ]
+        },
+        "fo0a": {
+            "t": 3.0,
+            "fo":   [
+                [ null,  null,  null,  null],
+                [ null,  null,  null,  null],
+                [ null,  null,  null,  null],
+                [-0.31,  null,  null,  null]
+            ]
+        },
+        "fo1": {
+            "t": 6.0,
+            "fo":   [
+                [ 0.00,  null,  null,  null],
+                [-0.90,  null,  null,  null],
+                [-1.00,  null,  null,  null],
+                [-1.04,  null,  null,  null]
+            ]
+        },
+        "fo1a": {
+            "t": 9.0,
+            "fo":   [
+                [ null,  null,  null,  null],
+                [ null,  null,  null,  null],
+                [ null,  null,  null,  null],
+                [ 1.92,  null,  null,  null]
+            ]
+        },
+        "fo2": {
+            "t": 10.0,
+            "fo":   [
+                [ 5.00,  null,  null,  null],
+                [-1.50,  null,  null,  null],
+                [-0.60,  null,  null,  null],
+                [ 2.35,  null,  null,  null]
+            ]
+        },
+        "fo3": {
+            "t": 15.0,
+            "fo":   [
+                [ 5.00,  null,  null,  null],
+                [ 1.70,  null,  null,  null],
+                [-0.90,  null,  null,  null],
+                [ 3.92,  null,  null,  null]
+            ]
+        },
+        "fo3a": {
+            "t": 17.0,
+            "fo":   [
+                [ null,  null,  null,  null],
+                [ 1.40,  0.00,  null,  null],
+                [ null,  null,  null,  null],
+                [ 3.14,  null,  null,  null]
+            ]
+        },
+        "fo4": {
+            "t": 19.0,
+            "fo":   [
+                [ 0.00,  null,  null,  null],
+                [ 1.40,  0.00,  null,  null],
+                [-0.30,  0.00,  null,  null],
+                [ 3.14,  null,  null,  null]
+            ]
+        },
+        "fo5": {
+            "t": 23.0,
+            "fo":   [
+                [-4.90,  null,  null,  null],
+                [ 1.50,  null,  null,  null],
+                [-1.00,  null,  null,  null],
+                [ 4.71,  null,  null,  null]
+            ]
+        },
+        "fo6": {
+            "t": 25.0,
+            "fo":   [
+                [-4.90,  null,  null,  null],
+                [ 0.00,  null,  null,  null],
+                [-1.30,  null,  null,  null],
+                [ 4.50,  null,  null,  null]
+            ]
+        },
+        "fo7": {
+            "t": 30.0,
+            "fo":   [
+                [-5.50,  0.00,  0.00,  0.00],
+                [-1.35,  0.00,  0.00,  0.00],
+                [-0.60,  0.00,  0.00,  0.00],
+                [ 4.00,  0.00,  0.00,  0.00]
+            ]
+        }
+    }
+}

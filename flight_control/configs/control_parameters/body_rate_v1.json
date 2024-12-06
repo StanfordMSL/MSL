@@ -1,0 +1,10 @@
+{   
+    "type": "body-rate",
+    "hz": 20,
+    "use_RTI": false,
+    "terminal_padding": 5.0,
+    "bounds": {
+        "lower": [-1.0, -5.0, -5.0, -5.0],
+        "upper": [ 0.0,  0.0,  0.0,  0.0]
+    }
+}

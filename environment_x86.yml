@@ -1,0 +1,17 @@
+name: msl-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - qpsolvers
+  - ipykernel
+  - ipympl
+  - pip
+  - pip:
+    - -e ./flight_control
+    - -e ./flight_control/acados/interfaces/acados_template/
+prefix: /home/lowjunen/anaconda3/envs/msl-env
+
