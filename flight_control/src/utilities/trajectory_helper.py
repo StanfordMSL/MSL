@@ -318,26 +318,6 @@ def get_M(Ncp:int):
 
     return M
 
-# def nearest_quaternion(q:np.ndarray,qr:np.ndarray) -> np.ndarray:
-#     """
-#     Finds the nearest quaternion to a reference quaternion.
-
-#     Args:
-#         q:      Quaternion.
-#         qr:     Reference quaternion.
-
-#     Returns:
-#         qc:     Closest quaternion to reference.
-#     """
-#     q1 = 1.0*q
-#     q2 = -1.0*q
-
-#     qc = q1
-#     if np.linalg.norm(q2-qr) < np.linalg.norm(q1-qr):
-#         qc = q2
-
-#     return qc
-
 def obedient_quaternion(qcr:np.ndarray,qpr:np.ndarray) -> np.ndarray:
     """
     Ensure that the quaternion is well-behaved (unit norm and closest to reference).
